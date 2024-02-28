@@ -1,0 +1,120 @@
+body{
+    width: 60%;
+    margin: auto;
+    background-color: #F7C5CC;
+    font-family: 'Cormorant', serif;
+}
+
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a:visited{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    text-decoration: none;
+    color: #f4f1f1;
+  }
+
+h1{
+background-color: #CC313D;
+color: #ffffff;
+font-size: 60px;
+text-align: center;
+font: bold;
+}
+
+p{
+    color: #CC313D;
+    font-size: 25px;
+    text-align: center;
+}
+
+.one{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.two{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.three{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.four{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.five{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.six{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.seven{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.eight{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.nine{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+
+.ten{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
