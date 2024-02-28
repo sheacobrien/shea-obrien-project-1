@@ -9,6 +9,7 @@ body{
     padding: 20px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 a:visited{
@@ -26,11 +27,11 @@ footer a {
   }
 
 h1{
-background-color: #CC313D;
-color: #ffffff;
-font-size: 60px;
-text-align: center;
-font: bold;
+    background-color: #CC313D;
+    color: #ffffff;
+    font-size: 60px;
+    text-align: center;
+    font: bold;
 }
 
 p{
@@ -39,82 +40,7 @@ p{
     text-align: center;
 }
 
-.one{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
 
-.two{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.three{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.four{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.five{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.six{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.seven{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.eight{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.nine{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-}
-
-.ten{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    width: 300px;
-    height: 300px;
+img{
+    padding: 50px;
 }
